@@ -26,7 +26,8 @@ Informações de Contato...
 
 Entre em contato em: ciprilais@gmail.com 
 
-Dá uma olhadinha no meu LinkedIn:https://www.linkedin.com/in/la%C3%ADs-cipriano-348b99293?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+Dá uma olhadinha no meu LinkedIn:
+https://www.linkedin.com/in/la%C3%ADs-cipriano-348b99293?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 
 Meu Instagram: https://www.instagram.com/laisciipriano?igsh=MWdra28yZXZpeTE1eQ==
 
