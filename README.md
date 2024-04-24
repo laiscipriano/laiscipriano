@@ -4,15 +4,23 @@ Trabalho...
 
 Sou catequista (🇻🇦) e estudante do curso de Desenvolvimento de Sistemas na EP Deputado Roberto Mesquita(🎒), (também faço tranças nas horas vagas... 💇🏽‍♀️)
 
+
  Hobbies...
 
 • Cantar 🎤🎙🎵🎶
+
 • Aprender instrumentos 🎹🥁🎸
+
 • Fotografia 📷 
+
 • Escrever✍🏽⌨
+
 • Ler 📖
+
 • Desenhar e Pintar🎨🖌
+
 • Ouvir música 🎧🎶
+
 
 Informações de Contato...
 
