@@ -31,4 +31,4 @@ https://www.linkedin.com/in/la%C3%ADs-cipriano-348b99293?utm_source=share&utm_ca
 
 Meu Instagram: https://www.instagram.com/laisciipriano?igsh=MWdra28yZXZpeTE1eQ==
 
-
+Olha minhas fotos: vsco.co/laisciprianoo
