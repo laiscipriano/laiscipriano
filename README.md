@@ -1,11 +1,11 @@
-Olá, sou Laís Cipriano, tudo bem?
+# Olá, sou Laís Cipriano, tudo bem?
 
-Trabalho...
+## Trabalho
 
 Sou catequista (🇻🇦) e estudante do curso de Desenvolvimento de Sistemas na EP Deputado Roberto Mesquita(🎒), (também faço tranças nas horas vagas... 💇🏽‍♀️)
 
 
- Hobbies...
+ ## Hobbies
 
 • Cantar 🎤🎙🎵🎶
 
@@ -22,7 +22,7 @@ Sou catequista (🇻🇦) e estudante do curso de Desenvolvimento de Sistemas na
 • Ouvir música 🎧🎶
 
 
-Informações de Contato...
+## Informações de Contato
 
 Entre em contato em: ciprilais@gmail.com 
 
