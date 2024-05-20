@@ -26,9 +26,8 @@ Sou catequista (🇻🇦) e estudante do curso de Desenvolvimento de Sistemas na
 
 Entre em contato em: ciprilais@gmail.com 
 
-Dá uma olhadinha no meu LinkedIn
-https://www.linkedin.com/in/laiscipriano
+Dá uma olhadinha no meu (<a href='https://www.linkedin.com/in/laiscipriano'>LinkedIn</a>);
+Meu Instagram:(<a href='https://www.instagram.com/laisciipriano'>Clique Aqui</a>);
 
-Meu Instagram: https://www.instagram.com/laisciipriano
+Olha minhas fotos:(<a href='https://vsco.co/laisciprianoo'>VSCO</a>);
 
-Olha minhas fotos: https://vsco.co/laisciprianoo
